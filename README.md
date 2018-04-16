@@ -101,4 +101,4 @@ Step 11: Check by importing caffe in python3 interpreter. Open python3 interpret
 1. python3
 2. import caffe
 
-At this point caffe should be imported and be able to use successfully.
+At this point caffe should be imported and be able to use successfully. Sample "Makefile.config" is added for reference.
