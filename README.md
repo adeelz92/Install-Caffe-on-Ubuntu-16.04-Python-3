@@ -1,5 +1,5 @@
 # Install Caffe - Ubuntu-16.04 - Python 3.5
-This is the guide to install Caffe with GPU support on Ubuntu 16.04 with Python 3.5. Change the commands accordingly to 
+This is a guide to install Caffe with GPU support on Ubuntu 16.04 with Python 3.5. Change the commands accordingly to 
 use this guide for other version of Python 3. This guide assumes that you have already installed CUDA and cuDNN.
 
 For CUDA installation follow: http://docs.nvidia.com/cuda/cuda-installation-guide-linux/#axzz4VZnqTJ2A.
