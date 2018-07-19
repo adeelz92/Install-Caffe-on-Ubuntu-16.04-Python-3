@@ -39,7 +39,7 @@ Example: export PYTHONPATH=/home/user/xyz/caffe/python
 Step 6: Get the Python 3.5 USER_SITE path by typing following command in the terminal.
 1. python3 -m site
 
-We will need the path given in USER_SITE. e.g. USER_SITE: '/home/user/.local/lib/python3.5/site-packages'
+We will need the path given in USER_SITE. e.g. USER_SITE: '/home/user/.local/lib/python3.5/site-packages'. If USER_SITE doesn't exist, then use the one with /dist-packages in the end.
 
 Step 7: Generate the Makefile configuration file using following command in terminal.
 1. cp Makefile.config.example Makefile.config
